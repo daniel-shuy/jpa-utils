@@ -18,6 +18,10 @@
         </license>
     </licenses>
     
+    <scm>
+        <url>https://github.com/daniel-shuy/JPAUtils.git</url>
+    </scm>
+    
     <dependencies>
         <dependency>
             <groupId>javax.persistence</groupId>
