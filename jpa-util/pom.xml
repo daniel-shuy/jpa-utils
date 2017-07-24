@@ -8,6 +8,7 @@
     
     <name>JPAUtils</name>
     <description>Utilities for Java Persistence API (JPA)</description>
+    <url>https://github.com/daniel-shuy/JPAUtils</url>
     
     <dependencies>
         <dependency>
