@@ -70,6 +70,8 @@
     </developers>
     
     <scm>
+        <connection>scm:git:git://github.com/daniel-shuy/JPAUtils.git</connection>
+        <developerConnection>scm:git:ssh://github.com:daniel-shuy/JPAUtils.git</developerConnection>
         <url>https://github.com/daniel-shuy/JPAUtils.git</url>
     </scm>
 </project>
